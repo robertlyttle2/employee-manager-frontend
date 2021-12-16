@@ -1,0 +1,14 @@
+.title {
+  font-weight: bold;
+}
+
+.form__label {
+  font-weight: bold;
+}
+
+.error {
+  margin: 1rem;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}

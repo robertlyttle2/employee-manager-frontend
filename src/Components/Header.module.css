@@ -1,0 +1,9 @@
+.header {
+  padding: 3rem;
+}
+
+.header__logo {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
